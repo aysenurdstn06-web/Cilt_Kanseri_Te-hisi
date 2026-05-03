@@ -43,7 +43,8 @@ Uygulama arayüzünde, verilerin anlamlandırılması için aşağıdaki grafikl
 | **Vasküler Lezyonlar (VASC)** | Damarsal kaynaklı, genellikle kırmızı veya mor renkli deri oluşumlarıdır[cite: 1]. |
 
 ---
-
+HAZIRLAYAN
+İsim Soyisim:Ayşenur Daştan-Esra ilban
 ## 🚀 Çalıştırma Talimatı
 Projenin çalışması için gerekli kütüphaneleri yükledikten sonra ana dosyayı çalıştırabilirsiniz[cite: 1].
 ```bash
